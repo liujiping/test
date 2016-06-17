@@ -1,2 +1,2 @@
 # test
-第一次使用github
+first learn use github
