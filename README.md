@@ -9,6 +9,6 @@ first time learn use github
 *在www.dnspod.com网站注册账户，想解析域名，但一直没有成功
 ##2016年6月18日
 阅读了一些资料，但仍然没有解决域名解析的问题，我在www.godaddy.com域名管理操作的时候，把解析出来的记录删除了包含A关键字段的那一条，不知道有没有影响。
-通过[seisman]（https://seisman.info/）的博客,学习了诸如hexo，pandoc等软件，并在自己的电脑上安装了。
+通过[seiman]（https://seisman.info/)的博客,学习了诸如hexo，pandoc等软件，并在自己的电脑上安装了。
 ##2016年6月19日
 看了一些就介绍markdown和pandoc的文章。
